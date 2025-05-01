@@ -109,4 +109,4 @@ First use tihs command
 nano $(python3 -c "import hivemind.p2p.p2p_daemon as m; print(m.__file__)")
 Then scroll down and look for this line startup_timeout: float = 15, , here u need to modify this 15 with 120, and after modifying it will look like this : startup_timeout: float = 120,
 Save this changes, first use Ctrl + X and then press Y and then press Enter
-Now use this command again to run rl-swarm
+
