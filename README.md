@@ -115,3 +115,15 @@ After visiting the web hosting provider website, navigate to settings and there 
 Now, copy the command you received after renting the GPU instance and paste it into the terminal where you generated the public key.
 In my case, the command looks like this:
 ssh -p 69 root@69.69.69.69
+First open a terminal (this could be either WSL / Codespace / Command Prompt)
+Use this below command to generate SSH-Key
+ssh-keygen
+It will ask 3 questions like this :
+Enter file in which to save the key (/home/codespace/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again: 
+You need to press Enter 3 times
+After that you will get a message like this on your terminal
+Your public key has been saved in /home/codespace/.ssh/id_rsa.pub
+/home/codespace/.ssh/id_rsa.pub is the path of this public key in my case, in your case it might be different
+Screenshot 2025-04-08 081948
