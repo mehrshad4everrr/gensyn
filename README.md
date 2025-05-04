@@ -111,3 +111,7 @@ Then scroll down and look for this line startup_timeout: float = 15, , here u ne
 Save this changes, first use Ctrl + X and then press Y and then press Enter
 
 \\\\\\\\\\
+After visiting the web hosting provider website, navigate to settings and there paste and save your ssh key
+Now, copy the command you received after renting the GPU instance and paste it into the terminal where you generated the public key.
+In my case, the command looks like this:
+ssh -p 69 root@69.69.69.69
