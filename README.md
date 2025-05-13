@@ -124,4 +124,3 @@ Enter passphrase (empty for no passphrase):
 Enter same passphrase again: 
 You need to press Enter 3 times
 After that you will get a message like this on your terminal
-Your public key has been saved in /home/codespace/.ssh/id_rsa.pub
