@@ -126,4 +126,3 @@ You need to press Enter 3 times
 After that you will get a message like this on your terminal
 Your public key has been saved in /home/codespace/.ssh/id_rsa.pub
 /home/codespace/.ssh/id_rsa.pub is the path of this public key in my case, in your case it might be different
-Screenshot 2025-04-08 081948
