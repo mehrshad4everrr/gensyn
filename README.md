@@ -121,5 +121,4 @@ ssh-keygen
 It will ask 3 questions like this :
 Enter file in which to save the key (/home/codespace/.ssh/id_rsa):
 Enter passphrase (empty for no passphrase):
-Enter same passphrase again: 
 
