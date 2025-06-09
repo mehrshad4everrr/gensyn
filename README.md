@@ -115,6 +115,4 @@ After visiting the web hosting provider website, navigate to settings and there 
 Now, copy the command you received after renting the GPU instance and paste it into the terminal where you generated the public key.
 In my case, the command looks like this:
 ssh -p 69 root@69.69.69.69
-First open a terminal (this could be either WSL / Codespace / Command Prompt)
-Use this below command to generate SSH-Key
 
