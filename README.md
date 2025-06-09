@@ -117,6 +117,4 @@ In my case, the command looks like this:
 ssh -p 69 root@69.69.69.69
 First open a terminal (this could be either WSL / Codespace / Command Prompt)
 Use this below command to generate SSH-Key
-ssh-keygen
-It will ask 3 questions like this :
 
