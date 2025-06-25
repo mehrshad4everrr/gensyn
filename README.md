@@ -105,6 +105,4 @@ If you see 0x0000000000000000000000000000000000000000 in Connected EOA Address s
 ⚠️ Troubleshooting
 🔴 Daemon failed to start in 15.0 seconds
 If you are facing this issue then follow this step by step guide
-First use tihs command
-nano $(python3 -c "import hivemind.p2p.p2p_daemon as m; print(m.__file__)")
 
