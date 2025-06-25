@@ -100,6 +100,5 @@ Enter Peer-ID that you often see this in your logs
 The more win, the better
 Note
 
-If you see 0x0000000000000000000000000000000000000000 in Connected EOA Address section, that means your contribution is not being recorded, so you should run the node from beginning with fresh new email (means u need to delete existing swarm.pem file
 
 
